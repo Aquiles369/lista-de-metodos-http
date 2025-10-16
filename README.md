@@ -33,10 +33,10 @@
 <br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR0OGRrYnM4ZHk5a2M2dnFjODgxcnZ3b2lwM2Zmd25pamFsd29xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02iB5X78Zrr3Xg7K4n/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• Descubrimiento de superficie oculta: detectar endpoints no documentados y funciones olvidadas.<br>
-• Bypass de restricciones: aprovechar métodos alternativos cuando GET o POST están filtrados.<br>
-• Fuzzing inteligente: probar el backend con métodos que el desarrollador nunca pensó que alguien usaría.<br>
-• Análisis profundo: entender la semántica de cada método para identificar vectores de ataque reales.<br>
+**• Descubrimiento de superficie oculta: detectar endpoints no documentados y funciones olvidadas.<br><br>
+• Bypass de restricciones: aprovechar métodos alternativos cuando GET o POST están filtrados.<br><br>
+• Fuzzing inteligente: probar el backend con métodos que el desarrollador nunca pensó que alguien usaría.<br><br>
+• Análisis profundo: entender la semántica de cada método para identificar vectores de ataque reales.<br><br>
 • Pentest preciso: separar core, extensiones y no estándar para planificar pruebas específicas.** 
 
 <br>
