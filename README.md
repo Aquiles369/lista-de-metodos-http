@@ -15,7 +15,7 @@
 
 <br>
 
- **Colección completa de métodos HTTP: desde los core definidos por RFC hasta extensiones oficiales y métodos “de la calle” usados por CDNs, proxies y herramientas reales. Esta lista es tu mapa táctico para entender cómo se comunican cliente y servidor, descubrir rutas ocultas, y encontrar comportamientos peligrosos que otros pasan por alto,<a href="https://youtu.be/hI9D3In4X9U" target="_blank" rel="noopener">demo lista metodos http Youtube</a>.** 
+ **Colección completa de métodos HTTP: desde los core definidos por RFC hasta extensiones oficiales y métodos “de la calle” usados por CDNs, proxies y herramientas reales. Esta lista es tu mapa táctico para entender cómo se comunican cliente y servidor, descubrir rutas ocultas, y encontrar comportamientos peligrosos que otros pasan por alto,<a href="https://youtu.be/DzKrF0WHD7A" target="_blank" rel="noopener">demo lista metodos http Youtube</a>.** 
 <br><br> 
 
 <p align="center">
